@@ -6,4 +6,3 @@ router.post('/register', registerInstitute);
 router.post('/login', loginInstitute);
 
 module.exports = router;
-
