@@ -40,7 +40,6 @@ exports.registerInstitute = async (req, res) => {
   }
 };
 
-
 exports.loginInstitute = async (req, res) => {
     const { email, password } = req.body;
   
